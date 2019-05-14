@@ -1,0 +1,2 @@
+# newsample
+my blog
